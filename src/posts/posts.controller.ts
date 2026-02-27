@@ -52,3 +52,4 @@ export class PostsController {
     return this.postsService.remove(+id);
   }
 }
+//////
